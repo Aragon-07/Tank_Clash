@@ -129,6 +129,14 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Aragon-07**
 - GitHub: [@Aragon-07](https://github.com/Aragon-07)
+  
+
+## Project Contributors
+
+1. Shirsha Chowdhury
+2. Mrinmoy Shib
+3. Naimul Islam Jehan
+
 
 ## 🙏 Acknowledgments
 
