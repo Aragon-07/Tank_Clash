@@ -49,6 +49,13 @@ Before running the game, ensure you have:
    ./TankClash
    ```
 
+5.## Download the Game**
+
+You can download the Tank Clash game from the following link:
+
+[Download Tank Clash](https://drive.google.com/drive/folders/19aP4vLF8vIlSMo1VOForPkWuj4E7w7zj?usp=sharing)
+
+
 ## 🎯 How to Play
 
 - **Movement**: Use arrow keys or WASD to move your tank
